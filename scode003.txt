@@ -1,1 +1,2 @@
 welcome to smartgit GUI server
+this is a change from github online editor

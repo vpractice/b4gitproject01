@@ -7,4 +7,3 @@ echo "this is my dev branch modified by developer"
 
 echo "code has been changed"
 
-echo "code has been changed 2"

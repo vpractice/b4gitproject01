@@ -6,3 +6,8 @@ for better undestanding please read ***article on Linux***
 
 ### Installation Steps
 for installation type update readme `install linux`
+```
+yum install httpd
+yum install vsftpd
+yum update
+```
